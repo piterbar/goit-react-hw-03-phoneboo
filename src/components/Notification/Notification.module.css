@@ -5,9 +5,8 @@
   margin-top: 40px;
   border-radius: 4px;
   margin-bottom: 5px;
-  font-size: 24 px;
+  font-size: 24px;
   color: rgb(252, 253, 253);
   text-align: center;
-  box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 164),
-    -0.5rem -0.5rem 2rem rgb(172, 171, 171);
+  box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 164), -0.5rem -0.5rem 2rem rgb(172, 171, 171);
 }

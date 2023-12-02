@@ -1,18 +1,17 @@
 .form {
-  background-color: rgb(2, 48, 85);
+  background-color: #f5f5f5;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  border: 1px solid #000;
+  border: 1px solid #d1d1d1;
   padding: 20px;
   border-radius: 4px;
-  box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 164),
-    -0.5rem -0.5rem 2rem rgb(172, 171, 171);
+  box-shadow: 0.5rem 0.5rem 2rem rgba(0, 0, 0, 0.1), -0.5rem -0.5rem 2rem rgba(255, 255, 255, 0.1);
 }
 
 label {
   margin-bottom: 10px;
-  color: #fff;
+  color: #333;
 }
 
 label:last-child {
@@ -22,6 +21,7 @@ label:last-child {
 .inputName {
   margin-left: 28px;
 }
+
 .inputNumber {
   margin-left: 10px;
 }
